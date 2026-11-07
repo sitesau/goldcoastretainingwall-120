@@ -1,0 +1,22 @@
+{
+  "wheel_id": 485,
+  "structure": "umbrella",
+  "slug": "goldcoastretainingwall-120",
+  "project": "retaining-wall-builders-gold-coast-what-to-expect-387f2a5d2d154",
+  "parent_t1_ref": "goldcoastretainingwall-154",
+  "node_role": "feeder",
+  "money_target": "goldcoastretainingwall.net.au",
+  "primary_kw": "retaining wall builders gold coast what to expect",
+  "intended_url": "https://sitesau.github.io/goldcoastretainingwall-120/",
+  "tier": "T2",
+  "writeback_nonce": "cc37af62f6473254",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-wall-builders-gold-coast-warranty-df8bcbcbd3ce7ca29a6/",
+      "anchor": "the retaining wall builders gold coast warranty overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
